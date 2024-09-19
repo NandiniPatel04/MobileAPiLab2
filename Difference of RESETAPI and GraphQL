@@ -1,0 +1,6 @@
+REST API Response:
+Returns all available data about a resource (in this case, Luke Skywalker).
+Data is in a JSON object format with key-value pairs.
+GraphQL Response:
+Returns only the requested fields (in this case, name, height, mass, gender, and homeworld).
+Also returned in JSON format, but more focused.
